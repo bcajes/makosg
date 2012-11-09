@@ -1,0 +1,12 @@
+*~
+*.pyc
+*temp.log
+*,cover
+*.#*
+*.log
+*temp_store*
+*.out
+*.pid
+*.env
+*.py#
+*_flymake.py
