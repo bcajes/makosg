@@ -10,3 +10,6 @@
 *.env
 *.py#
 *_flymake.py
+build/*
+dist/*
+*egg-info
