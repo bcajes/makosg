@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='makosg',
-    version='0.0.2',
+    version='0.0.3',
     author='Brian Cajes',
     author_email='brian.cajes@gmail.com',
     packages=find_packages(),
