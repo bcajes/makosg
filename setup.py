@@ -9,6 +9,7 @@ setup(
     url='https://github.com/bcajes/makosg/',
     license='MIT License',
     install_requires=['sendgrid-python', 'mako'],
+    setup_requires=['nose'],
     description='Easily render rich html emails for sendgrid using mako templates',
     long_description='Works in conjunction with sendgrid-python.  Given mako templated text, some variables, and/or mako files, render richer email content easily.',
 )
