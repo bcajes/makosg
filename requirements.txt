@@ -1,2 +1,2 @@
-sendgrid
+sendgrid-python
 mako
